@@ -155,7 +155,7 @@ class ProfileState extends State<Profile> {
                   SizedBox(
                     width: 3.0,
                   ),
-                  Text("On"),
+                  Text("On",style: TextStyle(fontSize: 13.0,color: Colors.black45),),
                 ],
               )
             ],
