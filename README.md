@@ -1,6 +1,6 @@
 # messenger_clone
 
-A new Flutter application.
+Messenger ui design 
 
 ## Getting Started
 
